@@ -1,6 +1,6 @@
 <h1 align="center">Hola Mundo! Soy Yulia 🌛</h1>
 <h2 align="center">Desarrolladora Front End, Futura Full Stack</h2>
-<h3 align="center">Gif- Api es una App buscadora de gipfs utilizando React, Fetch y Api.</h3>
+<h3 align="center">Gif- Api es una App buscadora de Gifs utilizando React, Fetch y Api.</h3>
 
 ## 💫 Sobre mi:
 🔸Estudiante de Desarrollo Full Stack en CoderHouse y Soy Henry. <br>
